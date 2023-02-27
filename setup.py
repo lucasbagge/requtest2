@@ -7,5 +7,5 @@ setup(name="git-for-pip-example",
       author="Matias Codesal",
       authoer_email="matias.codesal@gmail.com",
       url='https://github.com/matiascodesal/git-for-pip-example',
-      packages=['greetings']
+      packages=pandas
 )
